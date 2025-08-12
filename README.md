@@ -42,7 +42,7 @@ I actively participate in **Capture The Flag (CTF)** competitions and conduct re
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn:(www.linkedin.com/in/donkm)
+- LinkedIn:www.linkedin.com/in/donkm
 - Email: donkm690@gmail.com
 
 ---
