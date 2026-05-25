@@ -1,24 +1,54 @@
-👋 Hi, I'm DON KM
+<h1 align="center">DON KM</h1>
 
+<h3 align="center">
 Python Full Stack Developer | React Developer
+</h3>
 
-Passionate about building responsive and user-friendly web applications with modern frontend and backend technologies.
+<p align="center">
+Dedicated to building modern, responsive, and user-focused web applications 
+using frontend and backend technologies.
+</p>
 
-🚀 Tech Stack & Tools
+<p align="center">
+Skilled in developing clean user interfaces, efficient backend functionality, 
+and scalable web solutions with a strong focus on performance and usability.
+</p>
 
-💻 Frontend:
-HTML5 | CSS3 | JavaScript | Bootstrap | React
+---
 
-⚙️ Backend:
-Python
+<h2>Tech Stack</h2>
 
-🗄️ Database:
-MySQL
+<p align="center">
 
-🛠️ Tools & Platforms:
-Git | GitHub | VS Code
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode" />
 
-📚 Currently learning advanced full stack development and building real-world projects.
+</p>
 
-🎯 Focused on creating clean, responsive, and efficient web applications.
+---
 
+<h2>About Me</h2>
+
+<ul>
+<li>Passionate about Full Stack Web Development</li>
+<li>Focused on building responsive and efficient web applications</li>
+<li>Continuously learning modern technologies and development practices</li>
+<li>Interested in creating clean UI designs and seamless user experiences</li>
+<li>Currently improving practical development skills through real-world projects</li>
+</ul>
+
+---
+
+<h2>Current Focus</h2>
+
+<p>
+Building real-world projects using React, Python, and MySQL 
+to strengthen full stack development expertise.
+</p>
+
+---
+
+<h2>Connect With Me</h2>
+
+<p>
+GitHub: <a href="https://github.com/DONKM690">github.com/DONKM690</a>
+</p>
