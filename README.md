@@ -1,51 +1,24 @@
-# 👋 Hi, I'm DON KM  
+👋 Hi, I'm DON KM
 
-**Cybersecurity Analyst | Researcher | Penetration Tester**
+Python Full Stack Developer | React Developer
 
----
+Passionate about building responsive and user-friendly web applications with modern frontend and backend technologies.
 
-## 🚀 About Me  
-I am a **Cybersecurity Analyst and Researcher** with a passion for penetration testing, ethical hacking, and network security.  
-Graduated from **Calicut University**, I am currently studying at **Offenso Hackers Academy** to enhance my offensive security skills.  
+🚀 Tech Stack & Tools
 
-I actively participate in **Capture The Flag (CTF)** competitions and conduct research in **networking** using **Cisco Packet Tracer** to design, simulate, and analyze network infrastructures.
+💻 Frontend:
+HTML5 | CSS3 | JavaScript | Bootstrap | React
 
----
+⚙️ Backend:
+Python
 
-## 🛠 Skills & Tools  
+🗄️ Database:
+MySQL
 
-**💻 Programming & Database (Learning)**  
-- Python  
-- Java  
-- C++  
-- C  
-- MySQL  
+🛠️ Tools & Platforms:
+Git | GitHub | VS Code
 
-**🔍 Cybersecurity Tools**  
-- Nmap  
-- Hydra  
-- Metasploit  
+📚 Currently learning advanced full stack development and building real-world projects.
 
-**🌐 Networking**  
-- Cisco Packet Tracer (Network Simulation & Research)  
-
----
-
-## 🎯 Interests  
-- Penetration Testing  
-- Cybersecurity Research  
-- Networking & Network Security  
-- CTF Challenges  
-- Vulnerability Assessment  
-- Exploit Development  
-
----
-
-## 📫 Connect with Me  
-- LinkedIn:www.linkedin.com/in/donkm
-- Email: donkm690@gmail.com
-
----
-
-> _"Security is not a product, it's a mindset and a continuous journey."_
+🎯 Focused on creating clean, responsive, and efficient web applications.
 
