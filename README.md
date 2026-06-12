@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋 I'm DON KM</h1>
 
 <h3 align="center">
-Python Full Stack Developer | React Developer
+🚀 Python Full Stack Developer | React Developer
 </h3>
 
 <p align="center">
-🚀 Passionate Full Stack Developer focused on building modern, responsive and scalable web applications.
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Django+Developer;Clean+UI+%7C+Powerful+Backend;Always+Learning+New+Tech" />
 </p>
 
+---
+
+## ⚡ About Me
+
 <p align="center">
-💡 I enjoy creating clean UI, efficient backend systems, and real-world projects using modern technologies.
+💡 Passionate Full Stack Developer building modern, scalable and responsive web applications.<br/>
+🚀 Focused on real-world projects using React + Django + MySQL.<br/>
+🔥 Interested in clean UI, API design, and deployment workflows.
 </p>
 
 ---
@@ -18,72 +24,92 @@ Python Full Stack Developer | React Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,mysql,git,github,vscode,vercel,postman" />
 
-<br/>
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge&logo=python&logoColor=white" />
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DONKM690&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DONKM690&layout=compact&theme=radical" />
-</p>
+### 🌐 Full Stack E-Commerce App
+- React Frontend ⚛️  
+- Django REST API 🐍  
+- MySQL Database 🗄️  
+- Vercel + PythonAnywhere Deployment ☁️  
 
 ---
 
-## 📌 Projects
+### 🧑‍💼 Contact Management System
+- CRUD App using React + Django  
+- API Integration + Authentication  
 
-- 🌐 **E-Commerce Web App** – React + API Integration  
-- 🧑‍💼 **Contact Management System** – Full Stack CRUD App  
-- 🚗 **Used Vehicle Website** – Django + MySQL  
-- 🍔 **Starbucks Clone** – HTML, CSS, JavaScript  
+---
 
-👉 More projects available on my GitHub profile.
+### 🚗 Used Vehicle Website
+- Django Backend + MySQL  
+- Admin Panel + Dynamic Listings  
+
+---
+
+### 🍔 Starbucks Clone
+- HTML + CSS + JavaScript  
+- UI Practice Project  
 
 ---
 
 ## 🎯 Current Focus
 
 <p align="center">
-Building real-world full stack projects using React, Python & MySQL to strengthen development skills and deployment knowledge.
+🔥 Building real-world Full Stack Projects<br/>
+⚡ Improving API Development (Django REST)<br/>
+🚀 Learning Deployment & Performance Optimization
 </p>
 
 ---
 
-## 💼 Skills Highlights
+## 📊 Coding Vibes
 
-- Responsive Web Design  
-- REST API Integration  
-- Database Management (MySQL)  
-- Full Stack Development  
-- Deployment (Vercel / PythonAnywhere)  
-- Git & GitHub Workflow  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DONKM690&repo=your-repo-name&theme=radical" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/DONKM690">GitHub</a> • 
-<a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a> • 
-<a href="mailto:yourmail@gmail.com">Email</a>
+<a href="https://github.com/DONKM690">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
+## ⚡ Fun Dev Quote
+
 <p align="center">
-🚀 Always learning | 💡 Building real-world projects | ⚡ Open to opportunities
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+🚀 Always Learning | 💡 Building Real-World Apps | ⚡ Open to Opportunities
 </p>
 
 <p align="center">
