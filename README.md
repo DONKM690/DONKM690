@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Django+Developer;Clean+UI+%7C+Powerful+Backend;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Django+Developer;Clean+UI+%7C+Backend+%7C+Deployment" />
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ## ⚡ About Me
 
 <p align="center">
-💡 Passionate Full Stack Developer building modern, scalable and responsive web applications.<br/>
-🚀 Focused on real-world projects using React + Django + MySQL.<br/>
-🔥 Interested in clean UI, API design, and deployment workflows.
+💡 Passionate Full Stack Developer focused on building modern, responsive web applications.<br/>
+🚀 Working with React, Django, and MySQL for real-world projects.<br/>
+🔥 Interested in clean UI design, backend logic, and deployment.
 </p>
 
 ---
@@ -34,48 +34,39 @@
 
 ---
 
-## 🚀 Projects
+## 📌 Projects
 
 ### 🌐 Full Stack E-Commerce App
-- React Frontend ⚛️  
-- Django REST API 🐍  
-- MySQL Database 🗄️  
-- Vercel + PythonAnywhere Deployment ☁️  
+- React Frontend + Django Backend + MySQL  
+- API Integration + Authentication  
+- Deployment: Vercel + PythonAnywhere  
 
 ---
 
 ### 🧑‍💼 Contact Management System
-- CRUD App using React + Django  
-- API Integration + Authentication  
+- React + Django REST API  
+- CRUD operations with database integration  
 
 ---
 
 ### 🚗 Used Vehicle Website
-- Django Backend + MySQL  
-- Admin Panel + Dynamic Listings  
+- HTML + CSS + JavaScript  
+- Dynamic vehicle listings with basic interactivity  
 
 ---
 
-### 🍔 Starbucks Clone
-- HTML + CSS + JavaScript  
-- UI Practice Project  
+### 🍔 Starbucks Clone Website
+- HTML + CSS  
+- Responsive frontend design practice project  
 
 ---
 
 ## 🎯 Current Focus
 
 <p align="center">
-🔥 Building real-world Full Stack Projects<br/>
-⚡ Improving API Development (Django REST)<br/>
-🚀 Learning Deployment & Performance Optimization
-</p>
-
----
-
-## 📊 Coding Vibes
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DONKM690&repo=your-repo-name&theme=radical" />
+🚀 Building real-world full stack projects<br/>
+⚡ Improving Django REST API development<br/>
+🔥 Learning deployment and optimization techniques
 </p>
 
 ---
@@ -99,18 +90,6 @@
 </p>
 
 ---
-
-## ⚡ Fun Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<p align="center">
-🚀 Always Learning | 💡 Building Real-World Apps | ⚡ Open to Opportunities
-</p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
