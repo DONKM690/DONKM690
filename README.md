@@ -20,7 +20,7 @@ and scalable web solutions with a strong focus on performance and usability.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode,vercel,postman" />
 
 </p>
 
