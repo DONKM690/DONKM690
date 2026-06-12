@@ -21,7 +21,7 @@ and scalable web solutions with a strong focus on performance and usability.
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode,vercel,postman" />
-
+<img src="https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
