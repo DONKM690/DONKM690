@@ -1,54 +1,91 @@
-<h1 align="center">DON KM</h1>
+<h1 align="center">Hi 👋 I'm DON KM</h1>
 
 <h3 align="center">
 Python Full Stack Developer | React Developer
 </h3>
 
 <p align="center">
-Dedicated to building modern, responsive, and user-focused web applications 
-using frontend and backend technologies.
+🚀 Passionate Full Stack Developer focused on building modern, responsive and scalable web applications.
 </p>
 
 <p align="center">
-Skilled in developing clean user interfaces, efficient backend functionality, 
-and scalable web solutions with a strong focus on performance and usability.
+💡 I enjoy creating clean UI, efficient backend systems, and real-world projects using modern technologies.
 </p>
 
 ---
 
-<h2>Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode,vercel,postman" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge&logo=python&logoColor=white" />
+
 </p>
 
 ---
 
-<h2>About Me</h2>
+## 📊 GitHub Stats
 
-<ul>
-<li>Passionate about Full Stack Web Development</li>
-<li>Focused on building responsive and efficient web applications</li>
-<li>Continuously learning modern technologies and development practices</li>
-<li>Interested in creating clean UI designs and seamless user experiences</li>
-<li>Currently improving practical development skills through real-world projects</li>
-</ul>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DONKM690&show_icons=true&theme=radical" />
+</p>
 
----
-
-<h2>Current Focus</h2>
-
-<p>
-Building real-world projects using React, Python, and MySQL 
-to strengthen full stack development expertise.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DONKM690&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<h2>Connect With Me</h2>
+## 📌 Projects
 
-<p>
-GitHub: <a href="https://github.com/DONKM690">github.com/DONKM690</a>
+- 🌐 **E-Commerce Web App** – React + API Integration  
+- 🧑‍💼 **Contact Management System** – Full Stack CRUD App  
+- 🚗 **Used Vehicle Website** – Django + MySQL  
+- 🍔 **Starbucks Clone** – HTML, CSS, JavaScript  
+
+👉 More projects available on my GitHub profile.
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+Building real-world full stack projects using React, Python & MySQL to strengthen development skills and deployment knowledge.
+</p>
+
+---
+
+## 💼 Skills Highlights
+
+- Responsive Web Design  
+- REST API Integration  
+- Database Management (MySQL)  
+- Full Stack Development  
+- Deployment (Vercel / PythonAnywhere)  
+- Git & GitHub Workflow  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/DONKM690">GitHub</a> • 
+<a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a> • 
+<a href="mailto:yourmail@gmail.com">Email</a>
+
+</p>
+
+---
+
+<p align="center">
+🚀 Always learning | 💡 Building real-world projects | ⚡ Open to opportunities
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
