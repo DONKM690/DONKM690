@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋 I'm DON KM</h1>
+```md
+<h1 align="center">DON KM</h1>
 
 <h3 align="center">
-🚀 Python Full Stack Developer | React Developer
+🚀 Python Full Stack Developer | Django | React.js | MySQL
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Django+Developer;Clean+UI+%7C+Backend+%7C+Deployment" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+%26+React.js+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Database;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DONKM690&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-<p align="center">
-💡 Passionate Full Stack Developer focused on building modern, responsive web applications.<br/>
-🚀 Working with React, Django, and MySQL for real-world projects.<br/>
-🔥 Interested in clean UI design, backend logic, and deployment.
-</p>
+- 🎓 BCA Graduate
+- 🚀 Python Full Stack Developer
+- 💻 Passionate about building responsive and scalable web applications
+- 🔗 Experienced in React.js, Django, REST APIs, and MySQL
+- 🌱 Continuously learning modern technologies and best practices
 
 ---
 
@@ -24,49 +29,110 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,mysql,git,github,vscode,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,react,javascript,html,css,bootstrap,mysql,git,github,vscode,postman" />
 
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PythonAnywhere-1D9BF0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🌐 Full Stack E-Commerce App
-- React Frontend + Django Backend + MySQL  
-- API Integration + Authentication  
-- Deployment: Vercel + PythonAnywhere  
+### 🛒 React E-Commerce Website
+
+✔ User Registration & Login
+
+✔ Product Listing
+
+✔ Product Details Page
+
+✔ Product Search
+
+✔ Category Filtering
+
+✔ Shopping Cart
+
+✔ Dynamic Routing
+
+✔ API Integration
+
+✔ Responsive Design
+
+**Tech Stack:** React.js, JavaScript, HTML5, CSS3, JSON Server
 
 ---
 
-### 🧑‍💼 Contact Management System
-- React + Django REST API  
-- CRUD operations with database integration  
+### 📇 Contact Management System
+
+✔ React Frontend
+
+✔ Django Backend
+
+✔ REST API Integration
+
+✔ Contact Form Submission
+
+✔ MySQL Database Integration
+
+✔ Responsive User Interface
+
+**Tech Stack:** React.js, Django, Python, MySQL
 
 ---
 
 ### 🚗 Used Vehicle Website
-- HTML + CSS + JavaScript  
-- Dynamic vehicle listings with basic interactivity  
+
+✔ Vehicle Listings
+
+✔ Responsive Design
+
+✔ Interactive User Interface
+
+✔ Mobile Friendly Layout
+
+**Tech Stack:** HTML5, CSS3, JavaScript
 
 ---
 
-### 🍔 Starbucks Clone Website
-- HTML + CSS  
-- Responsive frontend design practice project  
+### ☕ Starbucks Landing Page Clone
+
+✔ Responsive Landing Page
+
+✔ Modern User Interface
+
+✔ Mobile Friendly Design
+
+**Tech Stack:** HTML5, CSS3
 
 ---
 
-## 🎯 Current Focus
+## 📚 Currently Learning
+
+- Django REST Framework
+- Advanced React.js
+- API Development
+- Deployment & Optimization
+- Full Stack Architecture
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-🚀 Building real-world full stack projects<br/>
-⚡ Improving Django REST API development<br/>
-🔥 Learning deployment and optimization techniques
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DONKM690&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DONKM690&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DONKM690&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -76,15 +142,11 @@
 <p align="center">
 
 <a href="https://github.com/DONKM690">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/donkm">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -92,5 +154,10 @@
 ---
 
 <p align="center">
+💡 Building Ideas Into Real-World Web Applications
+</p>
+
+<p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+```
